@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/ADI/Stuff/Completed/EncryptingAtxtFile/main.cpp
+iostream
+-
+stdlib.h
+-
+time.h
+-
+fstream
+-
+cstring
+-
+

@@ -1,0 +1,4 @@
+"E:\JetBrains\CLion 2020.3.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\ADI\Stuff\Completed\EncryptingAtxtFile
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/ADI/Stuff/Completed/EncryptingAtxtFile/cmake-build-debug
