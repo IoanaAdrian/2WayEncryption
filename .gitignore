@@ -6,3 +6,9 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+# .idea folder
+.idea
+# Compiled file
+*.exec
+# Default CLion CMake
+CMakeLists.txt
