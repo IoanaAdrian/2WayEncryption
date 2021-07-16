@@ -1,3 +1,0 @@
-"E:\JetBrains\CLion 2020.3.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\EncryptingAtxtFile.dir/objects.a
-C:\OJI\CodeBlocks\MinGW\bin\ar.exe cr CMakeFiles\EncryptingAtxtFile.dir/objects.a @CMakeFiles\EncryptingAtxtFile.dir\objects1.rsp
-C:\OJI\CodeBlocks\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\EncryptingAtxtFile.dir/objects.a -Wl,--no-whole-archive  -o EncryptingAtxtFile.exe -Wl,--out-implib,libEncryptingAtxtFile.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\EncryptingAtxtFile.dir\linklibs.rsp

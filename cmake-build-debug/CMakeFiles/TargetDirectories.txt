@@ -1,3 +1,0 @@
-E:/ADI/Stuff/Completed/EncryptingAtxtFile/cmake-build-debug/CMakeFiles/EncryptingAtxtFile.dir
-E:/ADI/Stuff/Completed/EncryptingAtxtFile/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/ADI/Stuff/Completed/EncryptingAtxtFile/cmake-build-debug/CMakeFiles/rebuild_cache.dir
